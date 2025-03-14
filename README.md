@@ -169,7 +169,7 @@ Use these hashtags in search to filter out the tools
 - [Phind](https://www.phind.com/) - An AI-powered coding and technical assistant, making complex tasks simpler. `#freemium`
 - [Smitty](https://www.smitty.ai/) - Streamlining processes and providing agile, efficient responses to your unique business needs. `#freemium`
 - [Tidio](https://www.tidio.com/) - Tidio Live Chat & AI Chatbots , Accelerate your growth with AI customer service `#freemium`
-- [AstroGPT](https://astrogpt.me/) - Personal astrological guide, blending the wisdom of planetary alignments with the precision of AI. `#free`
+- AstroGPT - Personal [astrological guide](https://astrogpt.me/), blending the wisdom of planetary alignments with the precision of AI. `#free`
 
 **[⬆️ Back to Top](#table-of-contents)**
 
